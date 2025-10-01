@@ -1,3 +1,7 @@
+# Agents
+
+General sharing repo for prompts/agents/useful agent related stuff. 
+
 # Claude Code Agents
 
 A repository for managing specialized Claude Code agent configurations that extend Claude's capabilities for specific development workflows.
