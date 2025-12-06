@@ -4,7 +4,7 @@
 
 ## Philosophy
 
-**Jackson's Law**: The optimal amount of code is the minimum necessary to solve the problem correctly. Every additional line is debt that must be understood, maintained, and reasoned about.
+The optimal amount of code is the minimum necessary to solve the problem correctly. Every additional line is debt that must be understood, maintained, and reasoned about.
 
 **Progressive Disclosure**: Structure code layer-by-layer. Readers should grasp high-level flow immediately, drilling into details only when needed.
 
