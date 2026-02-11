@@ -4,7 +4,7 @@
 
 ## Philosophy
 
-**Jackson's Law**: The optimal code is the minimum necessary to solve the problem correctly. Every additional line is debt.
+The optimal code is the minimum necessary to solve the problem correctly. Every additional line is debt.
 
 **Progressive Disclosure**: Structure code layer-by-layer. Readers grasp high-level flow immediately, drilling into details only when needed. File names indicate purpose. Directory structures mirror conceptual hierarchies. Function names describe behavior without reading implementation.
 
